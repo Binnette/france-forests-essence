@@ -1,0 +1,109 @@
+Auvergne-Rhône-Alpes:
+  - D001
+  - D003
+  - D007
+  - D015
+  - D026
+  - D038
+  - D042
+  - D043
+  - D063
+  - D069
+  - D073
+  - D074
+Bourgogne-Franche-Comté:
+  - D021
+  - D025
+  - D039
+  - D058
+  - D070
+  - D071
+  - D089
+  - D090
+Bretagne:
+  - D022
+  - D029
+  - D035
+  - D056
+Centre-Val de Loire:
+  - D018
+  - D028
+  - D036
+  - D037
+  - D041
+  - D045
+Corse:
+  - D02A
+  - D02B
+Grand Est:
+  - D008
+  - D010
+  - D051
+  - D052
+  - D054
+  - D055
+  - D057
+  - D067
+  - D068
+  - D088
+Hauts-de-France:
+  - D002
+  - D059
+  - D060
+  - D062
+  - D080
+Île-de-France:
+  - D075
+  - D077
+  - D078
+  - D091
+  - D092
+  - D093
+  - D094
+  - D095
+Normandie:
+  - D014
+  - D027
+  - D050
+  - D061
+  - D076
+Nouvelle-Aquitaine:
+  - D016
+  - D017
+  - D019
+  - D023
+  - D024
+  - D033
+  - D040
+  - D047
+  - D064
+  - D079
+  - D086
+  - D087
+Occitanie:
+  - D009
+  - D011
+  - D012
+  - D030
+  - D031
+  - D032
+  - D034
+  - D046
+  - D048
+  - D065
+  - D066
+  - D081
+  - D082
+Pays de la Loire:
+  - D044
+  - D049
+  - D053
+  - D072
+  - D085
+Provence-Alpes-Côte d'Azur:
+  - D004
+  - D005
+  - D006
+  - D013
+  - D083
+  - D084
