@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "FORMATION_VEGETALE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ESSENCE": "Pin à crochets, pin cembro" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.085, 46.499 ], [ 6.086, 46.498 ], [ 6.084, 46.497 ], [ 6.084, 46.498 ], [ 6.085, 46.499 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin à crochets, pin cembro" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.092, 46.499 ], [ 6.091, 46.497 ], [ 6.086, 46.499 ], [ 6.09, 46.5 ], [ 6.092, 46.499 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin à crochets, pin cembro" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.859, 46.52 ], [ 5.856, 46.517 ], [ 5.855, 46.517 ], [ 5.857, 46.521 ], [ 5.857, 46.52 ], [ 5.859, 46.52 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin à crochets, pin cembro" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.153, 46.816 ], [ 6.152, 46.815 ], [ 6.15, 46.814 ], [ 6.15, 46.816 ], [ 6.153, 46.816 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin à crochets, pin cembro" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.147, 46.817 ], [ 6.149, 46.821 ], [ 6.151, 46.821 ], [ 6.15, 46.817 ], [ 6.147, 46.817 ] ] ] } }
+]
+}

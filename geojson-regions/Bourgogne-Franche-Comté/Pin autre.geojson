@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "FORMATION_VEGETALE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.78, 47.092 ], [ 5.78, 47.091 ], [ 5.786, 47.085 ], [ 5.788, 47.086 ], [ 5.785, 47.082 ], [ 5.783, 47.085 ], [ 5.775, 47.086 ], [ 5.778, 47.087 ], [ 5.774, 47.089 ], [ 5.78, 47.092 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.601, 47.039 ], [ 5.601, 47.038 ], [ 5.598, 47.039 ], [ 5.599, 47.04 ], [ 5.601, 47.039 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.769, 47.074 ], [ 5.77, 47.073 ], [ 5.766, 47.073 ], [ 5.767, 47.074 ], [ 5.769, 47.074 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.767, 47.107 ], [ 5.769, 47.104 ], [ 5.772, 47.105 ], [ 5.773, 47.104 ], [ 5.766, 47.101 ], [ 5.765, 47.098 ], [ 5.764, 47.101 ], [ 5.768, 47.102 ], [ 5.768, 47.105 ], [ 5.765, 47.103 ], [ 5.765, 47.102 ], [ 5.764, 47.103 ], [ 5.76, 47.101 ], [ 5.757, 47.104 ], [ 5.76, 47.106 ], [ 5.761, 47.105 ], [ 5.763, 47.107 ], [ 5.767, 47.107 ] ], [ [ 5.764, 47.105 ], [ 5.763, 47.105 ], [ 5.762, 47.105 ], [ 5.765, 47.104 ], [ 5.764, 47.105 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.325, 46.755 ], [ 3.321, 46.754 ], [ 3.321, 46.756 ], [ 3.324, 46.758 ], [ 3.325, 46.755 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.058, 47.152 ], [ 4.058, 47.154 ], [ 4.063, 47.155 ], [ 4.06, 47.154 ], [ 4.058, 47.152 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.815, 47.508 ], [ 5.813, 47.508 ], [ 5.813, 47.511 ], [ 5.815, 47.51 ], [ 5.815, 47.508 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.819, 47.511 ], [ 5.819, 47.508 ], [ 5.817, 47.508 ], [ 5.815, 47.511 ], [ 5.819, 47.511 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.81, 47.51 ], [ 5.812, 47.508 ], [ 5.813, 47.507 ], [ 5.808, 47.507 ], [ 5.81, 47.51 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.45, 46.579 ], [ 4.45, 46.578 ], [ 4.447, 46.578 ], [ 4.447, 46.578 ], [ 4.45, 46.579 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.214, 46.993 ], [ 4.213, 46.991 ], [ 4.211, 46.992 ], [ 4.212, 46.993 ], [ 4.214, 46.993 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.709, 48.1 ], [ 3.712, 48.098 ], [ 3.706, 48.096 ], [ 3.706, 48.104 ], [ 3.709, 48.1 ] ] ] } }
+]
+}
