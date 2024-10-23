@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "FORMATION_VEGETALE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.471, 47.398 ], [ -2.469, 47.4 ], [ -2.468, 47.399 ], [ -2.468, 47.398 ], [ -2.471, 47.398 ] ], [ [ -2.47, 47.399 ], [ -2.471, 47.398 ], [ -2.47, 47.398 ], [ -2.47, 47.399 ], [ -2.47, 47.399 ] ], [ [ -2.469, 47.398 ], [ -2.469, 47.398 ], [ -2.468, 47.398 ], [ -2.468, 47.398 ], [ -2.469, 47.398 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.503, 47.399 ], [ -2.505, 47.397 ], [ -2.505, 47.397 ], [ -2.506, 47.399 ], [ -2.503, 47.399 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.388, 47.307 ], [ -2.385, 47.306 ], [ -2.385, 47.305 ], [ -2.387, 47.306 ], [ -2.388, 47.307 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.04, 47.291 ], [ -2.04, 47.289 ], [ -2.041, 47.289 ], [ -2.043, 47.29 ], [ -2.04, 47.291 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.968, 48.025 ], [ -0.966, 48.024 ], [ -0.966, 48.023 ], [ -0.968, 48.024 ], [ -0.968, 48.025 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.779, 47.815 ], [ -0.777, 47.813 ], [ -0.781, 47.81 ], [ -0.781, 47.813 ], [ -0.779, 47.815 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.77, 47.803 ], [ -0.769, 47.802 ], [ -0.774, 47.8 ], [ -0.774, 47.802 ], [ -0.77, 47.803 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.766, 47.814 ], [ -0.769, 47.813 ], [ -0.77, 47.814 ], [ -0.766, 47.815 ], [ -0.766, 47.814 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.221, 48.406 ], [ -0.223, 48.403 ], [ -0.232, 48.401 ], [ -0.231, 48.403 ], [ -0.221, 48.406 ] ] ] } }
+]
+}
