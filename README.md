@@ -2,6 +2,32 @@
 
 ## How to use
 
+### View the maps by Essence
+
+| Essence | Map |
+| ------- | --- |
+| Châtaignier | [🗺](https://umap.openstreetmap.fr/en/map/bd-foret-v2-chataignier_1129508) |
+| Chênes décidus | TODO |
+| Chênes sempervirents | [🗺](https://umap.openstreetmap.fr/en/map/bd-foret-v2-chenes-sempervirents_1129719) |
+| Conifères | TODO |
+| Douglas | [🗺](https://umap.openstreetmap.fr/en/map/bd-foret-v2-douglas_1129720) |
+| Feuillus | [🗺]() |
+| Hêtre | [🗺](https://umap.openstreetmap.fr/en/map/bd-foret-v2-hetre_1129721) |
+| Mélèze | [🗺](https://umap.openstreetmap.fr/en/map/bd-foret-v2-meleze_1129542) |
+| Mixte | - |
+| NC | - |
+| NR | - |
+| Peuplier | [🗺](https://umap.openstreetmap.fr/en/map/bd-foret-v2-peuplier_1129724) |
+| Pin à crochets, pin cembro | [🗺](https://umap.openstreetmap.fr/en/map/bd-foret-v2_1129727) |
+| Pin autre | [🗺](https://umap.openstreetmap.fr/en/map/bd-foret-v2-pin-autre_1129731) |
+| Pin d'Alep | [🗺](https://umap.openstreetmap.fr/en/map/bd-foret-v2-pin-dalep_1129733) |
+| Pin laricio, pin noir | [🗺](https://umap.openstreetmap.fr/en/map/bd-foret-v2-pin-laricio-pin-noir_1129734) |
+| Pin maritime | [🗺](https://umap.openstreetmap.fr/en/map/bd-foret-v2-pin-maritime_1129736) |
+| Pin sylvestre | [🗺]() |
+| Pins mélangés | [🗺](https://umap.openstreetmap.fr/en/map/bd-foret-v2-pins-melanges_1129738) |
+| Robinier | [🗺](https://umap.openstreetmap.fr/en/map/bd-foret-v2-robinier_1129742) |
+| Sapin, épicéa | TODO |
+
 ## How to use scripts
 
 Basically, you don't need to run scripts, just use the geosjon files, see section `How to use`.
