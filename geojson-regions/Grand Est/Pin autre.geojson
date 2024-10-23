@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "FORMATION_VEGETALE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.961, 48.959 ], [ 4.958, 48.957 ], [ 4.96, 48.956 ], [ 4.958, 48.956 ], [ 4.955, 48.958 ], [ 4.955, 48.961 ], [ 4.957, 48.959 ], [ 4.961, 48.959 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.939, 48.991 ], [ 4.94, 48.989 ], [ 4.937, 48.988 ], [ 4.936, 48.989 ], [ 4.939, 48.991 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.949, 48.971 ], [ 4.949, 48.97 ], [ 4.946, 48.971 ], [ 4.946, 48.973 ], [ 4.947, 48.971 ], [ 4.948, 48.972 ], [ 4.949, 48.971 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Pin autre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.937, 48.991 ], [ 4.938, 48.991 ], [ 4.933, 48.991 ], [ 4.933, 48.991 ], [ 4.937, 48.991 ] ] ] } }
+]
+}

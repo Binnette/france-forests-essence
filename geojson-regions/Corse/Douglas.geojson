@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "FORMATION_VEGETALE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ESSENCE": "Douglas" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.139, 41.878 ], [ 9.138, 41.876 ], [ 9.141, 41.875 ], [ 9.14, 41.874 ], [ 9.137, 41.875 ], [ 9.138, 41.877 ], [ 9.137, 41.879 ], [ 9.139, 41.878 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Douglas" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.015, 41.959 ], [ 9.015, 41.959 ], [ 9.015, 41.958 ], [ 9.013, 41.959 ], [ 9.015, 41.959 ] ] ] } },
+{ "type": "Feature", "properties": { "ESSENCE": "Douglas" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.015, 41.962 ], [ 9.014, 41.962 ], [ 9.013, 41.962 ], [ 9.016, 41.963 ], [ 9.015, 41.962 ] ] ] } }
+]
+}
