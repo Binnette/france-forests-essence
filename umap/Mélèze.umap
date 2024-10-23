@@ -1,0 +1,257 @@
+{
+  "type": "umap",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.94,
+      46.92
+    ]
+  },
+  "properties": {
+    "name": "BD Forêt V2 Mélèze",
+    "zoom": 6,
+    "description": "Arbres de type \"Mélèze\" extraits de la \"BD Forêt® V2\"\nSource : https://geoservices.ign.fr/bdforet",
+    "limitBounds": {},
+    "shortCredit": "https://geoservices.ign.fr/bdforet",
+    "zoomControl": true,
+    "scrollWheelZoom": true,
+    "fullscreenControl": true,
+    "permanentCreditBackground": false
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Auvergne-Rhône-Alpes - Mélèze",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Auvergne-Rhône-Alpes/Mélèze.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mélèze\" dans la région Auvergne-Rhône-Alpes",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Bourgogne-Franche-Comté - Mélèze",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bourgogne-Franche-Comté/Mélèze.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mélèze\" dans la région Bourgogne-Franche-Comté",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Bretagne - Mélèze",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bretagne/Mélèze.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mélèze\" dans la région Bretagne",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Centre-Val de Loire - Mélèze",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Centre-Val de Loire/Mélèze.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mélèze\" dans la région Centre-Val de Loire",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Corse - Mélèze",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Corse/Mélèze.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mélèze\" dans la région Corse",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Grand Est - Mélèze",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Grand Est/Mélèze.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mélèze\" dans la région Grand Est",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Hauts-de-France - Mélèze",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Hauts-de-France/Mélèze.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mélèze\" dans la région Hauts-de-France",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Île-de-France - Mélèze",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Île-de-France/Mélèze.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mélèze\" dans la région Île-de-France",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Normandie - Mélèze",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Normandie/Mélèze.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mélèze\" dans la région Normandie",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Nouvelle-Aquitaine - Mélèze",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Nouvelle-Aquitaine/Mélèze.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mélèze\" dans la région Nouvelle-Aquitaine",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Occitanie - Mélèze",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Occitanie/Mélèze.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mélèze\" dans la région Occitanie",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Pays de la Loire - Mélèze",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Pays de la Loire/Mélèze.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mélèze\" dans la région Pays de la Loire",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Provence-Alpes-Côte d'Azur - Mélèze",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Provence-Alpes-Côte d'Azur/Mélèze.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mélèze\" dans la région Provence-Alpes-Côte d'Azur",
+        "displayOnLoad": true
+      }
+    }
+  ]
+}

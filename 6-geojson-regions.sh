@@ -24,7 +24,7 @@ for gpkg in "$input_dir"/*.gpkg; do
         echo "Processing ESSENCE: $essence"
         essence=$(echo "$essence" | sed "s/'/''/g")
         output_file="$region_output_dir/${essence}.geojson"
-        ogr2ogr -f "GeoJSON" -t_srs "EPSG:4326" -simplify 10 -lco COORDINATE_PRECISION=4 -where "ESSENCE='$essence'" "$output_file" "$gpkg"
+        ogr2ogr -f "GeoJSON" -t_srs "EPSG:4326" -simplify 100 -lco COORDINATE_PRECISION=3 -select "ESSENCE" -where "ESSENCE='$essence'" "$output_file" "$gpkg"
     done < "$essences_file"
 done
 

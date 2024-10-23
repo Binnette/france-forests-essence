@@ -1,0 +1,257 @@
+{
+  "type": "umap",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.94,
+      46.92
+    ]
+  },
+  "properties": {
+    "name": "BD Forêt V2 Sapin, épicéa",
+    "zoom": 6,
+    "description": "Arbres de type \"Sapin, épicéa\" extraits de la \"BD Forêt® V2\"\nSource : https://geoservices.ign.fr/bdforet",
+    "limitBounds": {},
+    "shortCredit": "https://geoservices.ign.fr/bdforet",
+    "zoomControl": true,
+    "scrollWheelZoom": true,
+    "fullscreenControl": true,
+    "permanentCreditBackground": false
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Auvergne-Rhône-Alpes - Sapin, épicéa",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Auvergne-Rhône-Alpes/Sapin, épicéa.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Sapin, épicéa\" dans la région Auvergne-Rhône-Alpes",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Bourgogne-Franche-Comté - Sapin, épicéa",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bourgogne-Franche-Comté/Sapin, épicéa.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Sapin, épicéa\" dans la région Bourgogne-Franche-Comté",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Bretagne - Sapin, épicéa",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bretagne/Sapin, épicéa.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Sapin, épicéa\" dans la région Bretagne",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Centre-Val de Loire - Sapin, épicéa",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Centre-Val de Loire/Sapin, épicéa.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Sapin, épicéa\" dans la région Centre-Val de Loire",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Corse - Sapin, épicéa",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Corse/Sapin, épicéa.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Sapin, épicéa\" dans la région Corse",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Grand Est - Sapin, épicéa",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Grand Est/Sapin, épicéa.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Sapin, épicéa\" dans la région Grand Est",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Hauts-de-France - Sapin, épicéa",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Hauts-de-France/Sapin, épicéa.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Sapin, épicéa\" dans la région Hauts-de-France",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Île-de-France - Sapin, épicéa",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Île-de-France/Sapin, épicéa.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Sapin, épicéa\" dans la région Île-de-France",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Normandie - Sapin, épicéa",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Normandie/Sapin, épicéa.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Sapin, épicéa\" dans la région Normandie",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Nouvelle-Aquitaine - Sapin, épicéa",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Nouvelle-Aquitaine/Sapin, épicéa.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Sapin, épicéa\" dans la région Nouvelle-Aquitaine",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Occitanie - Sapin, épicéa",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Occitanie/Sapin, épicéa.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Sapin, épicéa\" dans la région Occitanie",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Pays de la Loire - Sapin, épicéa",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Pays de la Loire/Sapin, épicéa.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Sapin, épicéa\" dans la région Pays de la Loire",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Provence-Alpes-Côte d'Azur - Sapin, épicéa",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Provence-Alpes-Côte d'Azur/Sapin, épicéa.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Sapin, épicéa\" dans la région Provence-Alpes-Côte d'Azur",
+        "displayOnLoad": true
+      }
+    }
+  ]
+}

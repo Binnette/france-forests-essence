@@ -1,0 +1,257 @@
+{
+  "type": "umap",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.94,
+      46.92
+    ]
+  },
+  "properties": {
+    "name": "BD Forêt V2 NC",
+    "zoom": 6,
+    "description": "Arbres de type \"NC\" extraits de la \"BD Forêt® V2\"\nSource : https://geoservices.ign.fr/bdforet",
+    "limitBounds": {},
+    "shortCredit": "https://geoservices.ign.fr/bdforet",
+    "zoomControl": true,
+    "scrollWheelZoom": true,
+    "fullscreenControl": true,
+    "permanentCreditBackground": false
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Auvergne-Rhône-Alpes - NC",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Auvergne-Rhône-Alpes/NC.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"NC\" dans la région Auvergne-Rhône-Alpes",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Bourgogne-Franche-Comté - NC",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bourgogne-Franche-Comté/NC.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"NC\" dans la région Bourgogne-Franche-Comté",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Bretagne - NC",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bretagne/NC.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"NC\" dans la région Bretagne",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Centre-Val de Loire - NC",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Centre-Val de Loire/NC.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"NC\" dans la région Centre-Val de Loire",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Corse - NC",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Corse/NC.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"NC\" dans la région Corse",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Grand Est - NC",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Grand Est/NC.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"NC\" dans la région Grand Est",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Hauts-de-France - NC",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Hauts-de-France/NC.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"NC\" dans la région Hauts-de-France",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Île-de-France - NC",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Île-de-France/NC.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"NC\" dans la région Île-de-France",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Normandie - NC",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Normandie/NC.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"NC\" dans la région Normandie",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Nouvelle-Aquitaine - NC",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Nouvelle-Aquitaine/NC.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"NC\" dans la région Nouvelle-Aquitaine",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Occitanie - NC",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Occitanie/NC.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"NC\" dans la région Occitanie",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Pays de la Loire - NC",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Pays de la Loire/NC.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"NC\" dans la région Pays de la Loire",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Provence-Alpes-Côte d'Azur - NC",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Provence-Alpes-Côte d'Azur/NC.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"NC\" dans la région Provence-Alpes-Côte d'Azur",
+        "displayOnLoad": true
+      }
+    }
+  ]
+}

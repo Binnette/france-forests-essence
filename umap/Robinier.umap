@@ -1,0 +1,257 @@
+{
+  "type": "umap",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.94,
+      46.92
+    ]
+  },
+  "properties": {
+    "name": "BD Forêt V2 Robinier",
+    "zoom": 6,
+    "description": "Arbres de type \"Robinier\" extraits de la \"BD Forêt® V2\"\nSource : https://geoservices.ign.fr/bdforet",
+    "limitBounds": {},
+    "shortCredit": "https://geoservices.ign.fr/bdforet",
+    "zoomControl": true,
+    "scrollWheelZoom": true,
+    "fullscreenControl": true,
+    "permanentCreditBackground": false
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Auvergne-Rhône-Alpes - Robinier",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Auvergne-Rhône-Alpes/Robinier.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Robinier\" dans la région Auvergne-Rhône-Alpes",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Bourgogne-Franche-Comté - Robinier",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bourgogne-Franche-Comté/Robinier.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Robinier\" dans la région Bourgogne-Franche-Comté",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Bretagne - Robinier",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bretagne/Robinier.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Robinier\" dans la région Bretagne",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Centre-Val de Loire - Robinier",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Centre-Val de Loire/Robinier.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Robinier\" dans la région Centre-Val de Loire",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Corse - Robinier",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Corse/Robinier.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Robinier\" dans la région Corse",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Grand Est - Robinier",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Grand Est/Robinier.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Robinier\" dans la région Grand Est",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Hauts-de-France - Robinier",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Hauts-de-France/Robinier.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Robinier\" dans la région Hauts-de-France",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Île-de-France - Robinier",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Île-de-France/Robinier.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Robinier\" dans la région Île-de-France",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Normandie - Robinier",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Normandie/Robinier.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Robinier\" dans la région Normandie",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Nouvelle-Aquitaine - Robinier",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Nouvelle-Aquitaine/Robinier.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Robinier\" dans la région Nouvelle-Aquitaine",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Occitanie - Robinier",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Occitanie/Robinier.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Robinier\" dans la région Occitanie",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Pays de la Loire - Robinier",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Pays de la Loire/Robinier.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Robinier\" dans la région Pays de la Loire",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Provence-Alpes-Côte d'Azur - Robinier",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Provence-Alpes-Côte d'Azur/Robinier.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Robinier\" dans la région Provence-Alpes-Côte d'Azur",
+        "displayOnLoad": true
+      }
+    }
+  ]
+}

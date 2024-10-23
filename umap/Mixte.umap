@@ -1,0 +1,257 @@
+{
+  "type": "umap",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.94,
+      46.92
+    ]
+  },
+  "properties": {
+    "name": "BD Forêt V2 Mixte",
+    "zoom": 6,
+    "description": "Arbres de type \"Mixte\" extraits de la \"BD Forêt® V2\"\nSource : https://geoservices.ign.fr/bdforet",
+    "limitBounds": {},
+    "shortCredit": "https://geoservices.ign.fr/bdforet",
+    "zoomControl": true,
+    "scrollWheelZoom": true,
+    "fullscreenControl": true,
+    "permanentCreditBackground": false
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Auvergne-Rhône-Alpes - Mixte",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Auvergne-Rhône-Alpes/Mixte.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mixte\" dans la région Auvergne-Rhône-Alpes",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Bourgogne-Franche-Comté - Mixte",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bourgogne-Franche-Comté/Mixte.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mixte\" dans la région Bourgogne-Franche-Comté",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Bretagne - Mixte",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bretagne/Mixte.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mixte\" dans la région Bretagne",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Centre-Val de Loire - Mixte",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Centre-Val de Loire/Mixte.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mixte\" dans la région Centre-Val de Loire",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Corse - Mixte",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Corse/Mixte.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mixte\" dans la région Corse",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Grand Est - Mixte",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Grand Est/Mixte.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mixte\" dans la région Grand Est",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Hauts-de-France - Mixte",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Hauts-de-France/Mixte.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mixte\" dans la région Hauts-de-France",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Île-de-France - Mixte",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Île-de-France/Mixte.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mixte\" dans la région Île-de-France",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Normandie - Mixte",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Normandie/Mixte.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mixte\" dans la région Normandie",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Nouvelle-Aquitaine - Mixte",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Nouvelle-Aquitaine/Mixte.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mixte\" dans la région Nouvelle-Aquitaine",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Occitanie - Mixte",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Occitanie/Mixte.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mixte\" dans la région Occitanie",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Pays de la Loire - Mixte",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Pays de la Loire/Mixte.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mixte\" dans la région Pays de la Loire",
+        "displayOnLoad": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Provence-Alpes-Côte d'Azur - Mixte",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Provence-Alpes-Côte d'Azur/Mixte.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Mixte\" dans la région Provence-Alpes-Côte d'Azur",
+        "displayOnLoad": true
+      }
+    }
+  ]
+}
