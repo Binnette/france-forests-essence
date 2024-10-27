@@ -1,5 +1,7 @@
 # France Forest
 
+Data BD Foret V2: https://geoservices.ign.fr/bdforet
+
 ## How to use
 
 ### View the maps by Essence
