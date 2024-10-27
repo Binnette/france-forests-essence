@@ -30,11 +30,31 @@
         "inCaption": true,
         "remoteData": {
           "ttl": "86400",
-          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Auvergne-Rhône-Alpes/Feuillus.geojson",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Auvergne-Rhône-Alpes/Feuillus_to11.geojson",
           "format": "geojson"
         },
         "description": "Arbres \"Feuillus\" dans la région Auvergne-Rhône-Alpes",
-        "displayOnLoad": true
+        "displayOnLoad": true,
+        "toZoom": 11
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Auvergne-Rhône-Alpes - Feuillus",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Auvergne-Rhône-Alpes/Feuillus_from10.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Feuillus\" dans la région Auvergne-Rhône-Alpes",
+        "displayOnLoad": true,
+        "fromZoom": 10
       }
     },
     {
@@ -48,11 +68,31 @@
         "inCaption": true,
         "remoteData": {
           "ttl": "86400",
-          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bourgogne-Franche-Comté/Feuillus.geojson",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bourgogne-Franche-Comté/Feuillus_to11.geojson",
           "format": "geojson"
         },
         "description": "Arbres \"Feuillus\" dans la région Bourgogne-Franche-Comté",
-        "displayOnLoad": true
+        "displayOnLoad": true,
+        "toZoom": 11
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Bourgogne-Franche-Comté - Feuillus",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bourgogne-Franche-Comté/Feuillus_from10.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Feuillus\" dans la région Bourgogne-Franche-Comté",
+        "displayOnLoad": true,
+        "fromZoom": 10
       }
     },
     {
@@ -66,11 +106,31 @@
         "inCaption": true,
         "remoteData": {
           "ttl": "86400",
-          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bretagne/Feuillus.geojson",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bretagne/Feuillus_to11.geojson",
           "format": "geojson"
         },
         "description": "Arbres \"Feuillus\" dans la région Bretagne",
-        "displayOnLoad": true
+        "displayOnLoad": true,
+        "toZoom": 11
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Bretagne - Feuillus",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Bretagne/Feuillus_from10.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Feuillus\" dans la région Bretagne",
+        "displayOnLoad": true,
+        "fromZoom": 10
       }
     },
     {
@@ -84,11 +144,31 @@
         "inCaption": true,
         "remoteData": {
           "ttl": "86400",
-          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Centre-Val de Loire/Feuillus.geojson",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Centre-Val de Loire/Feuillus_to11.geojson",
           "format": "geojson"
         },
         "description": "Arbres \"Feuillus\" dans la région Centre-Val de Loire",
-        "displayOnLoad": true
+        "displayOnLoad": true,
+        "toZoom": 11
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Centre-Val de Loire - Feuillus",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Centre-Val de Loire/Feuillus_from10.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Feuillus\" dans la région Centre-Val de Loire",
+        "displayOnLoad": true,
+        "fromZoom": 10
       }
     },
     {
@@ -102,11 +182,31 @@
         "inCaption": true,
         "remoteData": {
           "ttl": "86400",
-          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Corse/Feuillus.geojson",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Corse/Feuillus_to11.geojson",
           "format": "geojson"
         },
         "description": "Arbres \"Feuillus\" dans la région Corse",
-        "displayOnLoad": true
+        "displayOnLoad": true,
+        "toZoom": 11
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Corse - Feuillus",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Corse/Feuillus_from10.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Feuillus\" dans la région Corse",
+        "displayOnLoad": true,
+        "fromZoom": 10
       }
     },
     {
@@ -120,11 +220,31 @@
         "inCaption": true,
         "remoteData": {
           "ttl": "86400",
-          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Grand Est/Feuillus.geojson",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Grand Est/Feuillus_to11.geojson",
           "format": "geojson"
         },
         "description": "Arbres \"Feuillus\" dans la région Grand Est",
-        "displayOnLoad": true
+        "displayOnLoad": true,
+        "toZoom": 11
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Grand Est - Feuillus",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Grand Est/Feuillus_from10.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Feuillus\" dans la région Grand Est",
+        "displayOnLoad": true,
+        "fromZoom": 10
       }
     },
     {
@@ -138,11 +258,31 @@
         "inCaption": true,
         "remoteData": {
           "ttl": "86400",
-          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Hauts-de-France/Feuillus.geojson",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Hauts-de-France/Feuillus_to11.geojson",
           "format": "geojson"
         },
         "description": "Arbres \"Feuillus\" dans la région Hauts-de-France",
-        "displayOnLoad": true
+        "displayOnLoad": true,
+        "toZoom": 11
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Hauts-de-France - Feuillus",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Hauts-de-France/Feuillus_from10.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Feuillus\" dans la région Hauts-de-France",
+        "displayOnLoad": true,
+        "fromZoom": 10
       }
     },
     {
@@ -156,11 +296,31 @@
         "inCaption": true,
         "remoteData": {
           "ttl": "86400",
-          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Île-de-France/Feuillus.geojson",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Île-de-France/Feuillus_to11.geojson",
           "format": "geojson"
         },
         "description": "Arbres \"Feuillus\" dans la région Île-de-France",
-        "displayOnLoad": true
+        "displayOnLoad": true,
+        "toZoom": 11
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Île-de-France - Feuillus",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Île-de-France/Feuillus_from10.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Feuillus\" dans la région Île-de-France",
+        "displayOnLoad": true,
+        "fromZoom": 10
       }
     },
     {
@@ -174,11 +334,31 @@
         "inCaption": true,
         "remoteData": {
           "ttl": "86400",
-          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Normandie/Feuillus.geojson",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Normandie/Feuillus_to11.geojson",
           "format": "geojson"
         },
         "description": "Arbres \"Feuillus\" dans la région Normandie",
-        "displayOnLoad": true
+        "displayOnLoad": true,
+        "toZoom": 11
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Normandie - Feuillus",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Normandie/Feuillus_from10.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Feuillus\" dans la région Normandie",
+        "displayOnLoad": true,
+        "fromZoom": 10
       }
     },
     {
@@ -192,11 +372,31 @@
         "inCaption": true,
         "remoteData": {
           "ttl": "86400",
-          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Nouvelle-Aquitaine/Feuillus.geojson",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Nouvelle-Aquitaine/Feuillus_to11.geojson",
           "format": "geojson"
         },
         "description": "Arbres \"Feuillus\" dans la région Nouvelle-Aquitaine",
-        "displayOnLoad": true
+        "displayOnLoad": true,
+        "toZoom": 11
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Nouvelle-Aquitaine - Feuillus",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Nouvelle-Aquitaine/Feuillus_from10.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Feuillus\" dans la région Nouvelle-Aquitaine",
+        "displayOnLoad": true,
+        "fromZoom": 10
       }
     },
     {
@@ -210,11 +410,31 @@
         "inCaption": true,
         "remoteData": {
           "ttl": "86400",
-          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Occitanie/Feuillus.geojson",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Occitanie/Feuillus_to11.geojson",
           "format": "geojson"
         },
         "description": "Arbres \"Feuillus\" dans la région Occitanie",
-        "displayOnLoad": true
+        "displayOnLoad": true,
+        "toZoom": 11
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Occitanie - Feuillus",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Occitanie/Feuillus_from10.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Feuillus\" dans la région Occitanie",
+        "displayOnLoad": true,
+        "fromZoom": 10
       }
     },
     {
@@ -228,11 +448,31 @@
         "inCaption": true,
         "remoteData": {
           "ttl": "86400",
-          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Pays de la Loire/Feuillus.geojson",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Pays de la Loire/Feuillus_to11.geojson",
           "format": "geojson"
         },
         "description": "Arbres \"Feuillus\" dans la région Pays de la Loire",
-        "displayOnLoad": true
+        "displayOnLoad": true,
+        "toZoom": 11
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Pays de la Loire - Feuillus",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Pays de la Loire/Feuillus_from10.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Feuillus\" dans la région Pays de la Loire",
+        "displayOnLoad": true,
+        "fromZoom": 10
       }
     },
     {
@@ -246,11 +486,31 @@
         "inCaption": true,
         "remoteData": {
           "ttl": "86400",
-          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Provence-Alpes-Côte d'Azur/Feuillus.geojson",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Provence-Alpes-Côte d'Azur/Feuillus_to11.geojson",
           "format": "geojson"
         },
         "description": "Arbres \"Feuillus\" dans la région Provence-Alpes-Côte d'Azur",
-        "displayOnLoad": true
+        "displayOnLoad": true,
+        "toZoom": 11
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Provence-Alpes-Côte d'Azur - Feuillus",
+        "opacity": 0.8,
+        "editMode": "advanced",
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "86400",
+          "url": "https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/Provence-Alpes-Côte d'Azur/Feuillus_from10.geojson",
+          "format": "geojson"
+        },
+        "description": "Arbres \"Feuillus\" dans la région Provence-Alpes-Côte d'Azur",
+        "displayOnLoad": true,
+        "fromZoom": 10
       }
     }
   ]

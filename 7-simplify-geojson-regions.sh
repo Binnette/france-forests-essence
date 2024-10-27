@@ -1,20 +1,35 @@
 #!/bin/bash
 
 input_dir="geojson-regions"
-simplify_tolerance=0.001  # Adjust the simplification tolerance as needed
-merge_distance=1000  # Merging distance in meters (1 km)
+simplify_tolerance=1  # Adjust the simplification tolerance as needed
+merge_distance=0,1  # Merging distance in km
 
-# Function to simplify and merge geojson
+# Function to clean, simplify, and merge geojson
 simplify_geojson() {
     local input_file="$1"
     local output_file="$2"
     echo "Simplifying file - $input_file"
+
+    # Ensure the temporary file is unique and clean it up if it exists
+    tmp_file=$(mktemp --suffix=".geojson")
+    rm -f "$tmp_file"
+
+    # Clean the geometry
+    ogr2ogr -f "GeoJSON" \
+      -dialect sqlite \
+      -sql "SELECT ST_MakeValid(geometry) AS geometry FROM FORMATION_VEGETALE" \
+      "$tmp_file" "$input_file"
+
+    # Simplify and merge features
     ogr2ogr -f "GeoJSON" \
       -dialect sqlite \
       -sql "SELECT ST_SimplifyPreserveTopology(ST_Union(ST_Buffer(geometry, $merge_distance)), $simplify_tolerance) AS geometry FROM FORMATION_VEGETALE" \
       -nln FORMATION_VEGETALE \
       -t_srs "EPSG:4326" \
-      "$output_file" "$input_file"
+      "$output_file" "$tmp_file"
+
+    # Clean up temporary file
+    rm -f "$tmp_file"
 }
 
 # Recursively find and process all files ending with "_from10.geojson"
