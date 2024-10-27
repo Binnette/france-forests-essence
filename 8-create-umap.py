@@ -1,5 +1,6 @@
 import os
 import json
+import re
 
 # Define paths
 regions_file_path = './assets/regions.txt'
@@ -53,25 +54,37 @@ for essence in essences:
     
     # Add layers for each region
     for region in regions:
-        layer = {
-            "type": "FeatureCollection",
-            "features": [],
-            "_umap_options": {
-                "name": f"{region} - {essence}",
-                "opacity": 0.8,
-                "editMode": "advanced",
-                "browsable": True,
-                "inCaption": True,
-                "remoteData": {
-                    "ttl": "86400",
-                    "url": f"https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/{region}/{essence}.geojson",
-                    "format": "geojson"
-                },
-                "description": f"Arbres \"{essence}\" dans la région {region}",
-                "displayOnLoad": True
-            }
-        }
-        json_data['layers'].append(layer)
+        region_dir = f"./geojson-regions/{region}"
+        if os.path.exists(region_dir):
+            for filename in os.listdir(region_dir):
+                if filename.startswith(essence) and filename.endswith(".geojson"):
+                    arg = filename[len(essence):-8]  # Extract the argument part
+                    layer = {
+                        "type": "FeatureCollection",
+                        "features": [],
+                        "_umap_options": {
+                            "name": f"{region} - {essence}",
+                            "opacity": 0.8,
+                            "editMode": "advanced",
+                            "browsable": True,
+                            "inCaption": True,
+                            "remoteData": {
+                                "ttl": "86400",
+                                "url": f"https://raw.githubusercontent.com/Binnette/france-forests-essence/refs/heads/main/geojson-regions/{region}/{filename}",
+                                "format": "geojson"
+                            },
+                            "description": f"Arbres \"{essence}\" dans la région {region}",
+                            "displayOnLoad": True
+                        }
+                    }
+                    if arg.startswith("_from"):
+                        number = re.search(r'\d+', arg).group()
+                        layer["_umap_options"]["fromZoom"] = int(number)
+                    elif arg.startswith("_to"):
+                        number = re.search(r'\d+', arg).group()
+                        layer["_umap_options"]["toZoom"] = int(number)
+                    
+                    json_data['layers'].append(layer)
     
     # Save the JSON to a file
     output_file_path = os.path.join(output_dir, f"{essence}.umap")

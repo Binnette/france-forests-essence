@@ -22,8 +22,8 @@ for gpkg in "$input_dir"/*.gpkg; do
     # Read each line from the essences file and process
     while IFS= read -r essence; do
         echo "Processing ESSENCE: $essence"
-        essence=$(echo "$essence" | sed "s/'/''/g")
         output_file="$region_output_dir/${essence}.geojson"
+        essence=$(echo "$essence" | sed "s/'/''/g")
         ogr2ogr -f "GeoJSON" -t_srs "EPSG:4326" -simplify 100 -lco COORDINATE_PRECISION=3 -select "ESSENCE" -where "ESSENCE='$essence'" "$output_file" "$gpkg"
     done < "$essences_file"
 done
